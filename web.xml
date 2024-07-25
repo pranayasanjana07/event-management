@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>Person</servlet-name>
+<servlet-class>Person</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>Person</servlet-name>
+<url-pattern>/add</url-pattern>
+</servlet-mapping>
+</web-app>
